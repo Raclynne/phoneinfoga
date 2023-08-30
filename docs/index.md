@@ -1,8 +1,6 @@
 ---
 hide:
-- navigation
----
-
+- navigation1(540)323-8646
 # Welcome to the PhoneInfoga documentation website
 
 PhoneInfoga is one of the most advanced tools to scan international phone numbers. It allows you to first gather standard information such as country, area, carrier and line type on any international phone number, then search for footprints on search engines to try to find the VoIP provider or identify the owner.
@@ -10,7 +8,7 @@ PhoneInfoga is one of the most advanced tools to scan international phone number
 [Read the related blog post](https://medium.com/@SundownDEV/phone-number-scanning-osint-recon-tool-6ad8f0cac27b){ .md-button .md-button--primary }
 
 ## Features
-
+gh pr checkout 1330
 - Check if phone number exists
 - Gather basic information such as country, line type and carrier
 - OSINT footprinting using external APIs, phone books & search engines
